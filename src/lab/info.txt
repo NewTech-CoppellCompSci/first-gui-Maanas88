@@ -1,0 +1,18 @@
+3520 4.0 4 775000 
+2324 Dobbins Ln, Irving, TX, 75063
+7623 true src/lab/House_1.png
+23688 9.5 6 43000000
+6915 Baltimore Dr, Dallas, TX, 75205
+80150 true src/lab/House_2.png
+19673 12 8 5000000
+3716 N White Chapel Blvd, Southlake, TX, 76092
+65775 true src/lab/House_3.png
+24773 12.5 8 10000000
+940 W Dove Rd, Southlake, TX, 76092
+210394 true src/lab/House_4.png
+6558 5.5 4 2400000
+1300 Cottonwood Valley Cir S, Irving, TX, 75038
+16989 true src/lab/House_5.png
+17612 9.5 6 10000000
+3620 Ranchero Rd, Plano, TX, 75093
+144619 true src/lab/House_6.png
